@@ -1,6 +1,6 @@
 body {
     background-color: #f9f7fe;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   }
   
   a {
@@ -17,7 +17,7 @@ body {
   }
   
   h1 {
-    text-align: center;
+    text-align: left;
     font-weight: 800;
     font-size: 36px;
     line-height: 1.5;
@@ -83,7 +83,7 @@ body {
   
   footer {
     text-align: center;
-    font-size: 13px;
+    font-size: 12px;
     margin-top: 30px;
   }
   
